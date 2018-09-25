@@ -2,23 +2,6 @@
     "success": true,
     "header": null,
     "data": {
-        "Messages": null,
-        "PostVoidReason": null,
-        "SuspendedOrderId": null,
-        "Invoice": [],
-        "CreatedTimestamp": "2018-09-24T13:38:26.415",
-        "BusinessDate": null,
-        "TaxOverrideValue": null,
-        "MaxFulfillmentStatusId": "2000",
-        "TaxExemptReason": null,
-        "CurrencyCode": null,
-        "CustomerPhone": null,
-        "EventSubmitTime": null,
-        "UpdatedBy": "csr1@dummyorg.com",
-        "CustomerFirstName": "PE2",
-        "RefundRecipient": {
-            "RefundRecipientId": "Customer"
-        },
         "TaxExemptId": null,
         "OrderLineCount": 1,
         "OrderHold": [],
@@ -68,22 +51,6 @@
         "TaxOverrideType": null,
         "ProcessReturnComments": null,
         "CancelledTotalDiscounts": null,
-        "OrderMilestoneEvent": [
-            {
-                "MonitoringRuleId": "RaiseOrderDelay",
-                "UpdatedTimestamp": "2018-09-24T16:00:02.953",
-                "OrgId": "dummyOrg",
-                "UpdatedBy": "system-msg-user@dummyOrg",
-                "CreatedBy": "system-msg-user@dummyOrg",
-                "CreatedTimestamp": "2018-09-24T16:00:02.953",
-                "EventTime": "2018-09-24T16:00:02.954",
-                "ContextId": "1d91dfca-898a-455e-8be1-b92062a3f414",
-                "MilestoneDefinitionId": "Order::Milestone::Shipped",
-                "EventId": "f1fd8860-b232-4dd6-a2a5-0645a2fcbb82",
-                "Process": null,
-                "PK": "4516956537804802953"
-            }
-        ],
         "MerchSaleLineCount": 1,
         "CustomerIdentityDoc": [],
         "OrgId": "dummyOrg",
